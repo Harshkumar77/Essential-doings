@@ -1,26 +1,12 @@
 {
-    "editor.formatOnSave": true,
-    "files.autoSave": "onWindowChange",
     "terminal.integrated.defaultProfile.linux": "zsh",
-    "window.zoomLevel": 1.7,
     "editor.fontSize": 18,
     "terminal.integrated.fontSize": 13,
-    "editor.fontFamily": "'Source Code Pro' ",
-    "vim.easymotion": true,
-    "vim.incsearch": true,
-    "vim.useSystemClipboard": true,
-    "vim.useCtrlKeys": true,
-    "vim.hlsearch": true,
-    "vim.insertModeKeyBindings": [
-        {
-            "before": [
-                "k",
-                "j"
-            ],
-            "after": [
-                "<Esc>"
-            ]
-        }
-    ],
+    // "editor.fontFamily": "'Source Code Pro' ",
+    "editor.fontFamily": "'JetBrains Mono'",
+    "editor.fontLigatures": true,
     "workbench.colorTheme": "SynthWave '84",
+    "vim.vimrc.enable": true,
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true
 }
