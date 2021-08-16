@@ -3,3 +3,4 @@ imap kj <Esc>
 " Disable annoying beeping
 set noerrorbells
 set vb t_vb=
+set clipboard=unnamedplus
