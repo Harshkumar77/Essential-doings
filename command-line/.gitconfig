@@ -5,3 +5,5 @@
 	editor = code --wait
 [alias]
 	rjar = !rm -rf *.jar */*.jar */*/*.jar */*/*/*.jar */*/*/*/*.jar
+[credential]
+	helper = store
