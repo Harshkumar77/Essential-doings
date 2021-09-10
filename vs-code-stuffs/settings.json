@@ -10,7 +10,8 @@
     "workbench.colorTheme": "SynthWave '84",
     "vim.vimrc.enable": true,
     "files.autoSave": "onFocusChange",
-    "editor.formatOnSave": true,
+    "editor.formatOnSave": 
+    true,
     "cph.general.autoShowJudge": false,
     "C_Cpp.enhancedColorization": "Enabled",
     "editor.renderWhitespace": "none",
