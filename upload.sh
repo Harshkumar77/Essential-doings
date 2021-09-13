@@ -4,7 +4,7 @@ pv ~/.bashrc >  command-line/.bashrc
 pv ~/.vimrc > command-line/.vimrc
 pv ~/.ideavimrc > Android-studio/.ideavimrc
 pv ~/.gitconfig > command-line/.gitconfig
-pv ~/.vscode/* > .vscode
+pv ~/.vscode/* > .vscode/
 
 git add .
 git commit -m "Nth commit"
