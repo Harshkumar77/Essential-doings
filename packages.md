@@ -7,4 +7,3 @@
 - [powe10ktheme](https://github.com/romkatv/powerlevel10k) 
 - g++
 - openjdk11
-- 

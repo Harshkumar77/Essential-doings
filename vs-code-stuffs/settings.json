@@ -20,6 +20,7 @@
     "zenMode.fullScreen": false,
     "zenMode.centerLayout": false,
     "zenMode.hideLineNumbers": false,
+    "zenMode.hideStatusBar": false,
     "editor.wordWrap": "on",
     // "workbench.activityBar.visible": false,
     // "workbench.statusBar.visible": false,
@@ -29,4 +30,5 @@
     "[html]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "glassit.alpha": 220,
 }
