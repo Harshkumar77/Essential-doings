@@ -1,0 +1,38 @@
+{
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "editor.fontSize": 18,
+    "editor.lineNumbers": "relative",
+    "terminal.integrated.fontSize": 13,
+    "workbench.colorTheme": "SynthWave '84",
+    "editor.fontFamily": "'JetBrains Mono'",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "vim.vimrc.enable": true,
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "cph.general.autoShowJudge": false,
+    "C_Cpp.enhancedColorization": "Enabled",
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "git.confirmSync": false,
+    "zenMode.fullScreen": false,
+    "zenMode.centerLayout": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideStatusBar": false,
+    "editor.wordWrap": "on",
+    // "workbench.activityBar.visible": false,
+    // "workbench.statusBar.visible": false,
+    // "window.menuBarVisibility": "toggle",
+    "terminal.integrated.gpuAcceleration": "on",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "window.zoomLevel": 1,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "security.workspace.trust.untrustedFiles": "open",
+}
