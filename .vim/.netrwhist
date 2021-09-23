@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/D/Web dev'
+let g:netrw_dirhist_7='/D/Web dev/[DesireCourse.Net] Udemy - The Complete 2020 Web Development Bootcamp/7. Intermediate Bootstrap'
+let g:netrw_dirhist_6='/D/Web dev/[DesireCourse.Net] Udemy - The Complete 2020 Web Development Bootcamp'
+let g:netrw_dirhist_5='/D/Web dev'
+let g:netrw_dirhist_4='/home/volcano/.config'
+let g:netrw_dirhist_3='/home/volcano/.vim'
+let g:netrw_dirhist_2='/D/varsity'
+let g:netrw_dirhist_1='/D'
