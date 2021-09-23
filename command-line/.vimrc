@@ -25,6 +25,8 @@ set smartindent
 "relative 
 set relativenumber
 
+"auto semicolon
+noremap <leader>; A;<Esc>o
 
 "search
 set incsearch
@@ -33,20 +35,6 @@ set incsearch
 noremap <leader>j Vxp
 noremap <leader>k VxkP
 
-"power of i - inside
-noremap vw viw
-noremap yw yiw
-noremap dw diw
-noremap v( vi(
-noremap y( yi(
-noremap d( di(
-noremap v{ vi{
-noremap y{ yi{
-noremap d{ di{
-
-"fix slow del
-noremap dd Vd
-            
 " Plugin 
 call plug#begin('~/.vim/plugged')
 Plug 'gruvbox-community/gruvbox'
