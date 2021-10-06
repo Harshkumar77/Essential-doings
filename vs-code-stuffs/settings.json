@@ -17,7 +17,7 @@
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "git.confirmSync": false,
     "zenMode.fullScreen": false,
-    "zenMode.centerLayout": false,
+    "zenMode.centerLayout": true,
     "zenMode.hideLineNumbers": false,
     "zenMode.hideStatusBar": false,
     "editor.wordWrap": "on",
@@ -35,6 +35,11 @@
     "window.zoomLevel": 1,
     "editor.multiCursorModifier": "ctrlCmd",
     "security.workspace.trust.untrustedFiles": "open",
-    "workbench.colorTheme": "SynthWave '84",
     "liveServer.settings.donotVerifyTags": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": "SynthWave '84",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
 }

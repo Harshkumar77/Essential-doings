@@ -1,5 +1,7 @@
 let mapleader = " "
 
+"Select all
+nnoremap <leader>a ggVG
 
 set nu
 imap kj <Esc>
@@ -28,12 +30,21 @@ set relativenumber
 "auto semicolon
 noremap <leader>; A;<Esc>o
 
+"auto curly {} for function
+noremap <leader>{ A {}<Esc>i<CR>
+
 "search
 set incsearch
 
 "Move lines
 noremap <leader>j Vxp
 noremap <leader>k VxkP
+
+nnoremap <leader>e" ea"<Esc>bi"<Esc> 
+
+"Snippets
+source ~/.vim/js.vim
+source ~/.vim/c.vim
 
 " Plugin 
 call plug#begin('~/.vim/plugged')

@@ -15,7 +15,7 @@ export ZSH="/home/volcano/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="adben"
+ZSH_THEME="dracula"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -114,3 +114,12 @@ source $ZSH/oh-my-zsh.sh
 eval "$(dircolors -p | \
     sed 's/ 4[0-9];/ 01;/; s/;4[0-9];/;01;/g; s/;4[0-9] /;01 /' | \
     dircolors /dev/stdin)"
+
+DRACULA_DISPLAY_TIME=1
+DRACULA_ARROW_ICON="🌋 "
+
+
+
+
+# Aliases
+alias e="exit"
