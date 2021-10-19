@@ -123,3 +123,4 @@ DRACULA_ARROW_ICON="🌋 "
 
 # Aliases
 alias e="exit"
+alias c="clear"
