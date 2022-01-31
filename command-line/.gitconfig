@@ -1,9 +1,0 @@
-[user]
-	email = harshkumar@noreply.com
-	name = mighty_volcano
-[core]
-	editor = code --wait
-[alias]
-	rjar = !rm -rf *.jar */*.jar */*/*.jar */*/*/*.jar */*/*/*/*.jar
-[credential]
-	helper = store
