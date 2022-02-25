@@ -12,4 +12,3 @@ cp ~/.zshrc.pre-oh-my-zsh .
 cp ~/.oh-my-zsh . -r
 cp ~/.themes . -r
 cp ~/.vim . -r
-cp ~/.vscode . -r
