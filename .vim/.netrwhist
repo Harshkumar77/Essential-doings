@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/bin'
+let g:netrw_dirhist_6='/home/volcano/.oh-my-zsh/themes'
+let g:netrw_dirhist_5='/home/volcano/.oh-my-zsh'
+let g:netrw_dirhist_4='/home/volcano/P/full-stack-projects/food-delivery/server/.git'
+let g:netrw_dirhist_3='/home/volcano/D/self-improvement/gratitude-journal/2021/12_December'
+let g:netrw_dirhist_2='/home/volcano/D/self-improvement/gratitude-journal/2021'
+let g:netrw_dirhist_1='/home/volcano/D/self-improvement/gratitude-journal'
+let g:netrw_dirhist_0='/P/Programming-projects-Sep-Dec-21/React/emoji-for-boommers/.firebase'
+let g:netrw_dirhist_9='/P/Programming-projects-Sep-Dec-21/React/lol-bad-name/build/static/js'
+let g:netrw_dirhist_8='/etc/apt/sources.list.d'
